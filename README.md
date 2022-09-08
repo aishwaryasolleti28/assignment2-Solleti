@@ -40,3 +40,28 @@ France is one of the most beautiful and scenic place. There are many places like
 
 > It's not the good byes that hurt, it's the flashback that follows
 >>_Arjun Reddy_
+
+---
+# Code Fencing
+> Deep Get/Set in Maps
+>> https://stackoverflow.com/questions/66003935/how-to-use-map-deep-get-in-sass
+``` java
+$o-grid-default-config: (
+    columns: 12,
+    gutter: 10px,
+    min-width: 240px,
+    max-width: 1330px,
+    layouts: (
+        S:  370px,  // ≥20px columns
+        M:  610px,  // ≥40px columns
+        L:  850px,  // ≥60px columns
+        XL: 1090px  // ≥80px columns
+    ),
+    fluid: true,
+    debug: false,
+    fixed-layout: M,
+    enhanced-experience: true
+);
+```
+
+**[link to above snippet](https://css-tricks.com/snippets/sass/deep-getset-maps/)**
