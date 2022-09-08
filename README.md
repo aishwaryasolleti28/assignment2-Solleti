@@ -21,3 +21,14 @@ The Frick is one of the preeminent small art museums in the United States, with 
  * wax the city
 
  **[Link to AboutMe](AboutMe.md)**
+ 
+ ----
+ # places to visit
+  
+France is one of the most beautiful and scenic place. There are many places like paris,Bordeaux, Provence
+
+| Name of the City | Important Location | Amount of time spent |
+--- | --- | ---|
+| HYderabad | cable bridge | 3hours |
+|Bangalore | Lal Bagh Gardens | 5hours |
+| Vizag | RK Beach | 6hours |
