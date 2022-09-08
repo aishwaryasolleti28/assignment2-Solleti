@@ -21,7 +21,7 @@ The Frick is one of the preeminent small art museums in the United States, with 
  * wax the city
 
  **[Link to AboutMe](AboutMe.md)**
- 
+
  ----
  # places to visit
   
@@ -32,3 +32,11 @@ France is one of the most beautiful and scenic place. There are many places like
 | HYderabad | cable bridge | 3hours |
 |Bangalore | Lal Bagh Gardens | 5hours |
 | Vizag | RK Beach | 6hours |
+
+---
+# quotes
+> "Not how long, but how well you have lived is the main thing.” 
+>> _Seneca_
+
+> It's not the good byes that hurt, it's the flashback that follows
+>>_Arjun Reddy_
